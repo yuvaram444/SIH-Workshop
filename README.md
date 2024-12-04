@@ -1,14 +1,14 @@
 # SIH-Workshop
 
 ## 1. First Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 233924.png>)
 ## 2. Second Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 233947.png>)
 ## 3. Third Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 234019.png>)
 ## 4. Fourth Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 234050.png>)
 ## 5. Fifth Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 234123.png>)
 ## 6. Sixth Slide
-    image of slide
+    ![alt text](<Screenshot 2024-12-04 234150.png>)
